@@ -1,0 +1,11 @@
+vfs-load test_vfs
+ls
+cd dir2
+ls
+cd sub_dir
+ls
+mkdir dir3
+cd dir3
+ls
+unknown
+exit

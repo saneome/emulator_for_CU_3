@@ -1,0 +1,6 @@
+vfs-load test_vfs
+ls
+cd dir1
+ls
+cd ..
+exit
