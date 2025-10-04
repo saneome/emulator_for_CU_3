@@ -1,3 +1,0 @@
-vfs-load test_vfs
-ls
-exit

@@ -1,0 +1,5 @@
+path,type,content
+/,dir,
+/file1.txt,file,SGVsbG8gd29ybGQ=  # base64 "Hello world"
+ /file2.txt,file,VGVzdA==  # "Test"
+/dir1,dir,
