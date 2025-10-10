@@ -1,0 +1,7 @@
+path,type,content
+/,dir,
+/home,dir,
+/home/user,dir,
+/home/user/file1.txt,file,SGVsbG8gV29ybGQh
+/home/user/readme.md,file,VGhpcyBpcyBhIHRlc3QgZmlsZQ==
+/home/user/subdir,dir

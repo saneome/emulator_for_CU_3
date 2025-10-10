@@ -1,0 +1,13 @@
+cd home
+cd alice
+cd ..
+cd var 
+#здесь будет ошибка
+ls
+cd ..
+ls
+cd tmp
+cd ..
+cd /var/www
+ls
+exit

@@ -1,7 +1,15 @@
 path,type,content
 /,dir,
-/level1,dir,
-/level1/level2,dir,
-/level1/level2/level3,dir,
-/level1/level2/level3/deepfile.txt,file,RGVlcCB0ZXN0  # "Deep test"
-/anotherfile.txt,file,QW5vdGhlcg==  # "Another"
+/bin,dir,
+/bin/ls,file, c2NyaXB0IGZvciBscw==
+/bin/cd,file, c2NyaXB0IGZvciBjZA==
+/home,dir,
+/home/alice,dir,
+/home/alice/documents,dir,
+/home/alice/documents/readme.md,file, IyBSZWFkbWUKVGhpcyBpcyBhIHRlc3QgZmlsZS4=
+/home/alice/downloads,dir,
+/home/bob,dir,
+/tmp,dir,
+/var,dir,
+/var/www,dir,
+/var/www/index.html,file, PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5PkhlbGxvPC9ib2R5PjwvaHRtbD4=

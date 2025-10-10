@@ -1,5 +1,13 @@
 path,type,content
 /,dir,
-/file1.txt,file,SGVsbG8gd29ybGQ=  # base64 "Hello world"
- /file2.txt,file,VGVzdA==  # "Test"
-/dir1,dir,
+/var,dir,
+/var/log,dir,
+/var/log/app,dir,
+/var/log/app/error.log,file, RXJyb3IgbG9nIGNvbnRlbnQ=
+/usr,dir,
+/usr/local,dir,
+/usr/local/bin,dir,
+/usr/local/bin/script.sh,file, IyEvYmluL2Jhc2gKZWNobyAiSGVsbG8gZnJvbSBzY3JpcHQi
+/etc,dir,
+/etc/config,dir,
+/etc/config/settings.conf,file, I2NvbmZpZwpzZXJ2ZXI9bG9jYWxob3N0CnBvcnQ9ODA4MA==
