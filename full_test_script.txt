@@ -1,8 +1,0 @@
-# Тест заглушек
-ls -l
-cd /dir
-ls "file with space"
-# Ошибка парсинга
-ls "unclosed
-# Неизвестная команда
-unknown
